@@ -1,0 +1,59 @@
+# Core Python Libraries
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+
+# Visualization
+plotly
+opencv-python
+pillow
+
+# Deep Learning
+tensorflow
+keras
+torch
+torchvision
+
+# Natural Language Processing
+nltk
+spacy
+textblob
+transformers
+
+# Model Deployment
+flask
+fastapi
+uvicorn
+gunicorn
+
+# MLOps & Utilities
+mlflow
+dvc
+joblib
+pickle-mixin
+
+# Data Handling
+xlrd
+openpyxl
+pyyaml
+
+# Web Scraping / Data Collection
+beautifulsoup4
+requests
+
+# Jupyter and Development
+jupyter
+notebook
+ipython
+jupyterlab
+tqdm
+
+# Cloud & APIs (Optional, if used)
+boto3
+google-cloud-storage
+
+# Version Control (for automation)
+python-dotenv
